@@ -1,6 +1,6 @@
 # Cards Image Classification
 
-A multiclass image classification project for identifying playing cards (rank and suit) using fastai and ResNet34.
+A multiclass image classification project for identifying playing cards (rank and suit) using fastai and ResNet18.
 
 ## Setup
 
@@ -32,17 +32,20 @@ The dataset is sourced from Kaggle and includes images of playing cards with 53 
 - Classes: 53
 - Splits: Train (~7,600), Test (~265), Valid (~265)
 
+## Model Performance
+
+Final Validation Accuracy: 0.6975 (69.75%)
+
 ## Visualizations
 
-- **Sample Images**:
-  ![Classification](image.png)
+**Sample Images**:
+![alt text](image.png)
 
-- **Training Loss Curve**:
-  ![alt text](image-1.png)
+**Training Loss Curve**:
+![alt text](image-1.png)
 
-- **Confusion Matrix**:
-  ![alt text](image-2.png)
-
+**Confusion Matrix**:
+![alt text](image-2.png)
 ## Project Structure
 
 - `project.ipynb`: Main notebook with the full pipeline.

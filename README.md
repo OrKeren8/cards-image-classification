@@ -32,9 +32,16 @@ The dataset is sourced from Kaggle and includes images of playing cards with 53 
 - Classes: 53
 - Splits: Train (~7,600), Test (~265), Valid (~265)
 
-## Usage
+## Visualizations
 
-Open `project.ipynb` in Jupyter Notebook to run the classification model, including data loading, training, evaluation, and prediction demos.
+- **Sample Images**:
+  ![Classification](image.png)
+
+- **Training Loss Curve**:
+  ![alt text](image-1.png)
+
+- **Confusion Matrix**:
+  ![alt text](image-2.png)
 
 ## Project Structure
 

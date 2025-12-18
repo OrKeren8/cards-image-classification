@@ -38,14 +38,18 @@ Final Validation Accuracy: 0.6975 (69.75%)
 
 ## Visualizations
 
-**Sample Images**:
+**Sample Images**
+
 ![alt text](image.png)
 
-**Training Loss Curve**:
+**Training Loss Curve**
+
 ![alt text](image-1.png)
 
-**Confusion Matrix**:
+**Confusion Matrix**
+
 ![alt text](image-2.png)
+
 ## Project Structure
 
 - `project.ipynb`: Main notebook with the full pipeline.
